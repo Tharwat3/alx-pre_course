@@ -1,10 +1,1 @@
-My first readme
-echo 'My first readme' > README.md
-
-My first readme
-
-
-
-
-hj
-
+another readme fot 0x01.git
